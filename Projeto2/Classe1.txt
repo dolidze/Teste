@@ -1,1 +1,1 @@
-Classe1 do Projeto2.
+Classe1 do Projeto2. try catch.
